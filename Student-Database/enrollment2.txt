@@ -1,0 +1,13 @@
+12
+10 c1 fall22 80
+10 c2 fall22 85
+10 c3 fall22 95
+40 c2 fall22 65
+2 c1 fall22 70
+40 c4 fall22 95
+40 c5 fall22 85
+2 c2 fall22 50
+4 c4  spring22 95
+4 c5 spring22 89
+13 c1 spring22 99
+13 c2 spring22 75

@@ -1,0 +1,9 @@
+8
+c1 intro_to_C 3
+c2 math1 2
+c3 physics_1 2
+c4 math2 2
+c5 physics2 2
+c9 cs1 3
+c7 java 3
+c88 fdsf 2
